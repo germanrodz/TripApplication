@@ -18,4 +18,6 @@ public class LoginActivity extends AppCompatActivity {
     //TODO permissions check (internet, location)
 
     //TODO regular authentication
+
+    //new line
 }
