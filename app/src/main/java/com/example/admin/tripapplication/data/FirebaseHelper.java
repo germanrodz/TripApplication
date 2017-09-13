@@ -10,5 +10,9 @@ public class FirebaseHelper {
 
     //TODO get trip information
 
+    //TODO add trip information
+
     //TODO get review information
+
+    //TODO add review information
 }
